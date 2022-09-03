@@ -33,6 +33,9 @@ Change the current directory to the location where you want to install and run t
 git clone https://github.com/1kmt/dmycre.git
 cd dmycre
 ```
+If "git clone" fails, you can download it as ZIP.
+Click "**Download ZIP**" from the "**Code**" dropdown.
+&nbsp; 
 ### 3.&nbsp;&nbsp;Install the dependencies
 Need packages for working.
 If the package is not installed, install it using the following command.
