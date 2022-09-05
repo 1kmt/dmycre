@@ -16,7 +16,8 @@ The main features are as follows:
 ## Installation
 ### 1.&nbsp;&nbsp;Check Python version ( version >= 3.6 required )
 Available since Python 3.6.
-To check the version, at the command prompt or terminal type:
+**Run Command Prompt or Terminal as administrator.**
+To check the version, enter the following command:
 ```
 python -V
 ```
@@ -38,10 +39,14 @@ Click "**Download ZIP**" from the "**Code**" dropdown.
 &nbsp; 
 ### 3.&nbsp;&nbsp;Install the dependencies
 Need packages for working.
-If the package is not installed, install it using the following command.
+If the package is not installed, install it using the following command:
 ```
 python -m pip install numpy
-``` 
+```
+If you get an error, update package to the latest version.
+```
+python -m pip install --upgrade [pip|numpy]
+```
 ### 4.&nbsp;&nbsp;Run
 See 'Command line examples'
 &nbsp;  
